@@ -343,7 +343,7 @@ right:216px;
 
 .footer__column_content_hours {
   margin-left: auto;
-      
+        
 }
 
 .footer__column_content_social {
@@ -357,6 +357,7 @@ right:216px;
 
 .footer__column-heading {
   margin-bottom: 20px;
+  margin-top:0;
   }
 
 .footer__list {
