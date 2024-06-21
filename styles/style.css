@@ -310,7 +310,7 @@ right:216px;
   }
 
 .step {
-  max-width: 220px;
+  width: 220px;
     }
 
 .step__title {
@@ -380,7 +380,7 @@ right:216px;
   width:16px;
   height:16px;
   margin-right:10px;
-}
+ }
 
 .footer__copyright {
   margin-top:100px;
